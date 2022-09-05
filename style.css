@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-image: url("https://images.pexels.com/photos/5554657/pexels-photo-5554657.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70vh;
+    background-color: whitesmoke;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: whitesmoke;
+    margin-top: 2%;
+}
+
+.page-subtitle {
+    color: whitesmoke;
+    margin-top: 1%;
+}
+
+.page-logo {
+    width: 100px;
+    margin-top: 38%;
+}

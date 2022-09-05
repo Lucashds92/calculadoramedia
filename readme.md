@@ -1,0 +1,1 @@
+Calcula a média aritmética de todas as suas notas
